@@ -25,7 +25,7 @@ SECRET_KEY = 'x&7$)!$nj9#ca(3s%xln!m_^18_$+=5nt$z8s^chlntq570m6u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['54.193.19.108']
+ALLOWED_HOSTS = ['PUBLIC_IP_ADDRESS']
 
 
 # Application definition
